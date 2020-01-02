@@ -7,4 +7,6 @@ num2 = float(p2)
 print("Your value is : ", num1 * num2)
 =======
 i mos fat
+
+eiei
 >>>>>>> e28cfb2a355c268d4a16bf61469e36aedd2c7872
