@@ -4,3 +4,5 @@ num1 = float(p1)
 num2 = float(p2)
 
 print("Your value is : ", num1 + num2)
+print("Your value is : ", num1 * num2)
+
