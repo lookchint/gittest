@@ -7,3 +7,4 @@ num2 = float(p2)
 num3 = float(p3)
 
 print("Your value is : ", num1 + num2 + num3)
+
